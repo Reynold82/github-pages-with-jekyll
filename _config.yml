@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Diego Ahumada
+subtitle: Dev Jr.
+author: Reynold82
+email: drahumada82@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  hello! How's everybody? I introduce myself, I am Diego and I am 39 years old. Enough to start with, right?
+  I don't think so, when you wish something, you always wish it until you fulfill it, and I completed the studies I needed to work on what I like, programming.
+  I have as much or more strength, enthusiasm and desire than someone younger. And I think I have the plus of responsibility and perseverance, 
+  which I consider a great advantage over the younger ones...
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: die.ahumada82 # DO NOT include the @ character, or else the build will fail!
+github_username:  reynold82 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
